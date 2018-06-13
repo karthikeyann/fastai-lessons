@@ -1,12 +1,11 @@
-# fastai-lessions
+# fastai-lessons
 
 
-## course.fast.ai part 1 lessions (rewritten in keras)
+## course.fast.ai part-1 deep learning tutorials (rewritten in keras)
 ## & keras tutorials
 1. keras mnist
 3. keras layers tutorial
 
 
-
-## utils
+## Utils
 1. kutils.py - memory usage functions
